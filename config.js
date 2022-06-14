@@ -37,11 +37,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 Asrori Amin 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.wm3 = 'Asrori Amin'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -109,7 +109,7 @@ global.hsquere = '⛶', '❏', '⫹⫺'
 
 // Sticker WM
 global.packname = 'Asrori Amin'
-global.author = 'Cool😎🕺'
+global.author = 'Asrori Amin'
 
 global.multiplier = 69 // The higher, The harder levelup
 

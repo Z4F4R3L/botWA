@@ -4,12 +4,8 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 882-2724-8988'],
-  ['+62 882-0053-10908'],
-  ['+62 822 2724 8988'],
-  ['6288227248988', 'Asrori Amin', true],
-  ['62882005310908', 'Amin Bot', true],
-  ['+62 895 6203 64877', 'Nisa', true],
+  ['+62 896-4346-7348'],
+  ['6289643467348', 'Z4F4R3L', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -41,7 +37,7 @@ global.wm = '                「 Asrori Amin 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = 'Asrori Amin'
+global.wm3 = 'Z4F4R3L'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
